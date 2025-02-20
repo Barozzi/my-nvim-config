@@ -1,3 +1,7 @@
-# My Neovim Config
+# My Nvim Config
 
-This is an ever evolving nvim config.
+I change it often
+
+## Stuff
+
+TODO - add stuff
